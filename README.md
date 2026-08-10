@@ -22,4 +22,4 @@ Always learning, solving problems, and exploring better ways to build.
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-“Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
+
