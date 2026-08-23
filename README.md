@@ -7,11 +7,7 @@
 Passionate about building scalable, maintainable, and reliable software.
 Always learning, solving problems, and exploring better ways to build.
 
-### 🌟 Projects
 
-* [Afronautas](https://www.afronautas.com/pt) — Community platform connecting African creatives with learning and professional opportunities.
-* [Dexpress](https://dexpress.ao/) - Connections that transform dreams and careers
-  
 
 ### 🌐 Connect
 
